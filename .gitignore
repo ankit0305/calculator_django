@@ -1,0 +1,7 @@
+env/
+calculator/calculator/__pycache__
+calculator/core/__pycache__
+calculator/core/migrations
+calculator/db.sqlite3
+calculator/foobar.py
+calculator/__pycache__
